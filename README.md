@@ -1,3 +1,4 @@
 # Finance-Project
 
-Test-1: Harper 20180828
+20180907 Harper's 1st version
+Colorado Marijuana Tax Analysis
